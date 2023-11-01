@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className='container'>
-      <ListingFC {...items}/>
+      <ListingFC items={items}/>
     </div>
   );
 }
