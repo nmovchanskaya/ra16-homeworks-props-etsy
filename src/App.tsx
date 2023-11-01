@@ -12,6 +12,6 @@ function App() {
       <ListingFC items={items}/>
     </div>
   );
-}//
+}
 
 export default App;
